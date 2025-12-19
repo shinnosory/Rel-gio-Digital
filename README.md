@@ -20,7 +20,7 @@ O relógio exibe a **hora atual em tempo real**, atualizando automaticamente a c
 
 - **HTML5** — estrutura da página  
 - **CSS3** — estilização e layout  
-- **JavaScript (Vanilla)** — lógica do relógio e atualização do tempo  
+- **JavaScript (Vanilla)** — lógica do relógio e atualização do tempo.
 
 ---
 
