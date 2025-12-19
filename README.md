@@ -6,7 +6,7 @@ O relógio exibe a **hora atual em tempo real**, atualizando automaticamente a c
 
 ---
 
-## 🕒 Funcionalidades
+## Funcionalidades
 
 - Exibição de horas, minutos e segundos
 - Atualização automática em tempo real
@@ -16,7 +16,7 @@ O relógio exibe a **hora atual em tempo real**, atualizando automaticamente a c
 
 ---
 
-## 🧠 Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 - **HTML5** — estrutura da página  
 - **CSS3** — estilização e layout  
