@@ -24,7 +24,7 @@ O relógio exibe a **hora atual em tempo real**, atualizando automaticamente a c
 
 ---
 
-## 🖤 Objetivo do Projeto
+##  Objetivo do Projeto
 
 Este projeto foi desenvolvido com fins **educacionais**, para aprimorar habilidades em:
 - JavaScript básico
@@ -34,7 +34,7 @@ Este projeto foi desenvolvido com fins **educacionais**, para aprimorar habilida
 
 ---
 
-## ▶️ Como Executar
+## Como Executar
 
 1. Baixe ou clone este repositório  
 2. Abra o arquivo `index.html` em qualquer navegador moderno  
